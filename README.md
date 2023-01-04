@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DrejT
+- 👋 Hi, I’m DrejT
 - 👀 I’m interested in Information Technology and about Artificial Intelligence and Machine Learning.
 - 🌱 I’m currently learning Python3
 - 🛰️ You can contact me on vivekpatel4049@gmail.com
