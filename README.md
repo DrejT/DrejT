@@ -1,5 +1,5 @@
 - 👋 Hi, I’m DrejT.
-- 👀 I’m interested in Information Technology and about Artificial Intelligence and Machine Learning.
+- 👀 I’m interested in Information Technology and AI/ML.
 - 🌱 I’m currently learning Python3 and Django web framework.
 - 🛰️ You can contact me on vivekpatel4049@gmail.com.
 
