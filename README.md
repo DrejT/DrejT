@@ -38,7 +38,7 @@
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="react" width="40" height="40"/>
    </a>
    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/ExpressJS-Dark.svg" alt="express" width="40" height="40"/>
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="express" width="40" height="40"/>
    </a>
    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
       <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" alt="nodejs" width="40" height="40"/> 
@@ -48,6 +48,9 @@
    </a>
    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
       <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" alt="postgresql" width="40" height="40"/>
+   </a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" alt="vscode" width="40" height="40"/> 
    </a>
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" alt="git" width="40" height="40"/>
