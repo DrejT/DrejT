@@ -61,3 +61,5 @@
       <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg" alt="linux" width="40" height="40"/> 
    </a>
 </p>
+<h3 align="left">Stats:</h3>
+<img src="https://github-readme-stats.vercel.app/api?username=drejt&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
