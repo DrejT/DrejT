@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, Vivek Patel here</h1>
 <h3 align="center">A passionate Learner and Developer from India</h3>
 
-- 🔭 I’m currently working on [Forum-page](https://github.com/drejt/forum-page)
+  🔭 I’m currently working on [Forum-page](https://github.com/drejt/forum-page)
 
-- 🌱 I’m currently learning **React**
+  🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [my github](https://github.com/drejt?tab=repositories)
+  👨‍💻 All of my projects are available at [my github](https://github.com/drejt?tab=repositories)
 
 <!--- 📝 I regularly write articles on [blog.link](blog.link) -->
 
-- 📫 How to reach me **vivekpatel4049@gmail.com**
+  📫 How to reach me **vivekpatel4049@gmail.com**
 
-<!-- - 📄 Know about my experiences [resume.link](resume.link) -->
+<!-- 📄 Know about my experiences [resume.link](resume.link) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
