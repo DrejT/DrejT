@@ -13,13 +13,6 @@
 
 <!-- 📄 Know about my experiences [resume.link](resume.link) -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-   <a href="https://linkedin.com/in/drejt" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/> 
-</a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
    <!-- 
@@ -63,3 +56,10 @@
 </p>
 <h3 align="left">Stats:</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=drejt&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+   <a href="https://linkedin.com/in/drejt" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/> 
+</a>
+</p>
