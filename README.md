@@ -35,6 +35,12 @@
    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="express" width="40" height="40"/>
    </a>
+   <a href="https://mui.com" target="_blank" rel="noreferrer">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" alt="mui" width="40" height="40"/>
+   </a>
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="40" height="40"/>
+   </a>
    
    <h4 align="left">Tools:</h4>
    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
@@ -47,7 +53,7 @@
       <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" alt="postgresql" width="40" height="40"/>
    </a>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" alt="vscode" width="40" height="40"/> 
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCodium-Dark.svg" alt="vscodium" width="40" height="40"/> 
    </a>
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" alt="git" width="40" height="40"/>
@@ -63,6 +69,6 @@
 <h4 align="left">Connect with me:</h4>
 <p align="left">
    <a href="https://linkedin.com/in/drejt" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="linkedin" width="40" height="40"/> 
 </a>
 </p>
