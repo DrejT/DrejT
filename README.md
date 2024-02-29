@@ -71,4 +71,7 @@
    <a href="https://linkedin.com/in/drejt" target="_blank" rel="noreferrer">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="linkedin" width="40" height="40"/> 
 </a>
+   <a href="mailto:vivekpatel4049@gmail.com" target="_blank" rel="noreferrer">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="gmail" width="40" height="40"/> 
+</a>
 </p>
