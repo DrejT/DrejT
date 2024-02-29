@@ -46,19 +46,19 @@
    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
       <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" alt="nodejs" width="40" height="40"/> 
    </a>
-   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+   <a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
       <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" alt="mongodb" width="40" height="40"/> 
    </a>
    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
       <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" alt="postgresql" width="40" height="40"/>
    </a>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <a href="https://vscodium.com" target="_blank" rel="noreferrer">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCodium-Dark.svg" alt="vscodium" width="40" height="40"/> 
    </a>
-   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+   <a href="https://git-scm.com" target="_blank" rel="noreferrer">
       <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" alt="git" width="40" height="40"/>
    </a>
-   <a href="https://www.kernel.org/" target="_blank" rel="noreferrer">
+   <a href="https://www.kernel.org" target="_blank" rel="noreferrer">
       <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg" alt="linux" width="40" height="40"/> 
    </a>
 </p>
