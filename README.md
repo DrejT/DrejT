@@ -19,7 +19,7 @@
       <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" alt="html5" width="40" height="40"/>
    </a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CSS.svg" alt="css3" width="40" height="40"/>
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="40" height="40"/>
    </a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/>
