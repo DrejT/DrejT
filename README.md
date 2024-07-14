@@ -24,6 +24,12 @@
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/>
    </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" alt="typescript" width="40" height="40"/>
+   </a>
+  <a href="https://go.dev" target="_blank" rel="noreferrer">
+      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/GoLang.svg" alt="go" width="40" height="40"/>
+   </a>
    <a href="https://www.python.org" target="_blank" rel="noreferrer">
       <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" alt="python" width="40" height="40"/>
    </a>
