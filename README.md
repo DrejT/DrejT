@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Vivek Patel here</h1>
 <h3 align="center">A passionate Learner and Developer from India</h3>
 
-  🔭 I’m currently working on [Alineo](https://alineo.tech)
+  🔭 I’m currently working on [Alineo](https://www.alineo.tech)
 
   🌱 I’m currently exploring **AI Agents**
   
