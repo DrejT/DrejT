@@ -5,7 +5,7 @@
 
   🌱 I’m currently exploring **AI Agents**
   
-  📝 My personal website is at [https://drejt.vercel.app](https://drejt.vercel.app) 
+  📝 Sometimes I write at [https://drejt.vercel.app](https://drejt.vercel.app) 
 
   📫 How to reach me **vivekpatel4049@gmail.com**
 
