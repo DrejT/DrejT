@@ -68,7 +68,6 @@
 </p>
 <h4 align="left">Stats:</h4>
 <img src="https://github-readme-stats.vercel.app/api?username=drejt&theme=vue-dark&show_icons=true&hide_border=false&count_private=true">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=drejt&theme=vue-dark&hide_border=false">
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
