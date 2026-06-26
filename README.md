@@ -1,11 +1,4 @@
 <h1 align="center">Hi 👋, Vivek Patel here</h1>
-<h3 align="center">A passionate Learner and Developer from India</h3>
-
-  🔭 I’m currently working on [Alineo](https://www.alineo.tech)
-
-  🌱 I’m currently exploring **AI Agents**
-  
-  📝 Sometimes I write at [https://drejt.vercel.app](https://drejt.vercel.app) 
 
   📫 How to reach me **vivekpatel4049@gmail.com**
 
