@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, Vivek Patel here</h1>
 
-  📫 How to reach me **vivekpatel4049@gmail.com**
+  📫 **vivekpatel4049@gmail.com**
 
 <!-- 📄 Know about my experiences [resume.link](resume.link) -->
 
